@@ -1,7 +1,15 @@
-# Rubiks Cube Timer
+# ChronoCube
 
-This is a Rubik's Cube Timer that is coded in pygame/python which is functional and useful (if you solve Rubik's Cubes, that is...)! It is also useful as a simple stopwatch app (if you don't solve Rubik's Cubes) that gives you averages, and the best and worst times if you need!
+A Rubik's Cube timer that gives you all the information you'll ever need. Right at your fingertips.
 
-Click this link to download the latest version of the app (with installer), and also a handy uninstaller!
+[Learn more](https://chronocube.sooraj.dev)
 
-https://github.com/WhenLifeHandsYouLemons/Rubiks-Cube-Timer/releases
+## Features
+
+- Every single AO you can think of.
+- Customise the look to your personal taste.
+- Time your solves, fast and slow.
+
+Small footprint. Big features.
+
+Download the [latest version](https://github.com/WhenLifeHandsYouLemons/ChronoCube/releases) now!
